@@ -26,7 +26,7 @@ https://tfsam5588.github.io
 ## Connect
 
 LinkedIn:
-https://linkedin.com/in/soham-khot
+[https://linkedin.com/in/soham-khot](https://www.linkedin.com/in/soham-khot-5aa6a1222/)
 
 Email:
 sohamkhot2005@gmail.com
